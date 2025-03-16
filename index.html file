@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Roman Numeral List Example</title>
+</head>
+<body>
+
+<h1>My Shopping List</h1>
+
+
+<ol type="I">
+  <li>Milk</li>
+  <li>Eggs</li>
+  <li>Bread</li>
+  <li>Cheese</li>
+  <li>Sweets</li>
+</ol>
+</head>
+</html>
+<figure>
+      <img src=" https://images.pexels.com/photos/29381998/pexels-photo-29381998.jpeg?cs=srgb&dl=pexels-bylukemiller-29381998.jpg&fm=jpg&_gl=1*10h4nn5*_ga*NjAxNTM0MTI2LjE3NDIxMzAwMzU.*_ga_8JE65Q40S6*MTc0MjEzMDAzNC4xLjEuMTc0MjEzMDEwNy4wLjAuMA" alt=" Mazda CX5">
+</figure>
+
+<table>
+  <tr>
+    <th>Names</th>
+    <th>Address</th>
+    <th>Mobile</th>
+    <th>Emails</th>
+  </tr>
+  <tr>
+    <td>Faith Mukoka</td>
+    <td>100</td>
+    <td>0786543245</td>
+    <td>mukokafaith@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Caroline Onani</td>
+    <td>590</td>
+    <td>0705916141</td>
+    <td>onanicaroline2@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Peter Ogubi</td>
+    <td>544</td>
+    <td>0722645641</td>
+    <td>ogubips@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Luther Jack</td>
+    <td>54674</td>
+    <td>0734265641</td>
+    <td>jackluther@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Regina Trudea</td>
+    <td>51674</td>
+    <td>0703904898</td>
+    <td>bwirecdk@gmail.com</td>
+  </tr>
+</table>
+
+<head>
+  <title>Registration Forms</title>
+  
